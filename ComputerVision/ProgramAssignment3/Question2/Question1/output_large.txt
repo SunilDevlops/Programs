@@ -1,0 +1,169 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Train set: Average loss: 2.0657, Accuracy: 11658/50000 (23%)
+
+
+Test set: Average loss: 0.0568, Accuracy: 3447/10000 (34%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 1.6165, Accuracy: 20300/50000 (41%)
+
+
+Test set: Average loss: 0.0437, Accuracy: 4818/10000 (48%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 1.4090, Accuracy: 24370/50000 (49%)
+
+
+Test set: Average loss: 0.0396, Accuracy: 5381/10000 (54%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 1.2672, Accuracy: 27254/50000 (55%)
+
+
+Test set: Average loss: 0.0357, Accuracy: 5927/10000 (59%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 1.1442, Accuracy: 29700/50000 (59%)
+
+
+Test set: Average loss: 0.0322, Accuracy: 6354/10000 (64%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 1.0345, Accuracy: 31801/50000 (64%)
+
+
+Test set: Average loss: 0.0292, Accuracy: 6747/10000 (67%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.9401, Accuracy: 33512/50000 (67%)
+
+
+Test set: Average loss: 0.0272, Accuracy: 6995/10000 (70%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.8529, Accuracy: 35107/50000 (70%)
+
+
+Test set: Average loss: 0.0254, Accuracy: 7180/10000 (72%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.7759, Accuracy: 36420/50000 (73%)
+
+
+Test set: Average loss: 0.0246, Accuracy: 7337/10000 (73%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.7118, Accuracy: 37576/50000 (75%)
+
+
+Test set: Average loss: 0.0243, Accuracy: 7292/10000 (73%)
+
+Train set: Average loss: 0.6460, Accuracy: 38663/50000 (77%)
+
+
+Test set: Average loss: 0.0227, Accuracy: 7474/10000 (75%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.5836, Accuracy: 39745/50000 (79%)
+
+
+Test set: Average loss: 0.0219, Accuracy: 7636/10000 (76%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.5292, Accuracy: 40750/50000 (82%)
+
+
+Test set: Average loss: 0.0221, Accuracy: 7610/10000 (76%)
+
+Train set: Average loss: 0.4715, Accuracy: 41709/50000 (83%)
+
+
+Test set: Average loss: 0.0216, Accuracy: 7706/10000 (77%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.4176, Accuracy: 42640/50000 (85%)
+
+
+Test set: Average loss: 0.0213, Accuracy: 7767/10000 (78%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.3750, Accuracy: 43424/50000 (87%)
+
+
+Test set: Average loss: 0.0219, Accuracy: 7772/10000 (78%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.3270, Accuracy: 44253/50000 (89%)
+
+
+Test set: Average loss: 0.0218, Accuracy: 7801/10000 (78%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.2867, Accuracy: 44957/50000 (90%)
+
+
+Test set: Average loss: 0.0225, Accuracy: 7805/10000 (78%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.2509, Accuracy: 45584/50000 (91%)
+
+
+Test set: Average loss: 0.0238, Accuracy: 7800/10000 (78%)
+
+Train set: Average loss: 0.2228, Accuracy: 46099/50000 (92%)
+
+
+Test set: Average loss: 0.0250, Accuracy: 7768/10000 (78%)
+
+Train set: Average loss: 0.1943, Accuracy: 46673/50000 (93%)
+
+
+Test set: Average loss: 0.0253, Accuracy: 7817/10000 (78%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.1678, Accuracy: 47030/50000 (94%)
+
+
+Test set: Average loss: 0.0263, Accuracy: 7848/10000 (78%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.1486, Accuracy: 47446/50000 (95%)
+
+
+Test set: Average loss: 0.0261, Accuracy: 7891/10000 (79%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.1366, Accuracy: 47673/50000 (95%)
+
+
+Test set: Average loss: 0.0272, Accuracy: 7854/10000 (79%)
+
+Train set: Average loss: 0.1245, Accuracy: 47917/50000 (96%)
+
+
+Test set: Average loss: 0.0274, Accuracy: 7885/10000 (79%)
+
+Train set: Average loss: 0.1125, Accuracy: 48091/50000 (96%)
+
+
+Test set: Average loss: 0.0275, Accuracy: 7935/10000 (79%)
+
+Model saved  ./best_weights/model_large.pth
+Train set: Average loss: 0.0989, Accuracy: 48324/50000 (97%)
+
+
+Test set: Average loss: 0.0300, Accuracy: 7878/10000 (79%)
+
+Train set: Average loss: 0.0948, Accuracy: 48422/50000 (97%)
+
+
+Test set: Average loss: 0.0287, Accuracy: 7892/10000 (79%)
+
+Train set: Average loss: 0.0909, Accuracy: 48473/50000 (97%)
+
+
+Test set: Average loss: 0.0292, Accuracy: 7915/10000 (79%)
+
+accuracy is 79.15
+Training and evaluation finished
